@@ -5,3 +5,4 @@
 - 📫 You can reach me through various ways, Contact me via phone or whatsapp, +9779865420342.
 - [Instagram] (https://www.instagram.com/Jharaju1215)
 - [Facebook Page] (https://www.facebook.com/codeRaj123/?ref=pages_you_manage "Raju Jha")
+- My Projects are private. I can't share any of my projects. You can contact me for more details or enquiry. 
