@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jharaju
-- 👀 I’m interested to develop dynamic webs using multiple languages.
-- 🌱 I’m currently developing web sites using laravel, php, react, django and python. I have knowledge of javascript, and different libraries of javascript, css, scss, bootstrap, tailwindcss and many more tools for effective and fast developing which make my clients satisfied.
-- 💞️ I’m looking to collaborate on Web Development.
+- 👋 Hi, I’m Raju Jha
+- 👀 I’m a Full Stack Web Developer.
+-  I’m currently developing web sites using laravel, php, react, django and python. I have knowledge of javascript, and different libraries of javascript, css, scss, bootstrap, tailwindcss and many more tools.
+- 💞️ I’ve 3+ years of work experience in PHP, Laravel, JavaScript, jQuery, AJAX, CSS, Bootstrap etc.
 - 📫 You can reach me through various ways, Contact me via phone or whatsapp, +9779865420342.
 - [Instagram] (https://www.instagram.com/Jharaju1215)
 - [Facebook Page] (https://www.facebook.com/codeRaj123/?ref=pages_you_manage "Raju Jha")
